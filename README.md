@@ -1,2 +1,3 @@
 # hello_world_php
-My first Hello World application in PHP
+
+This is just a basic Hello World application I build to learn the very basic set up of a PHP server
